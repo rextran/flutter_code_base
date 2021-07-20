@@ -1,17 +1,20 @@
 # flutter_code_base
 
-A new Flutter project.
+A Base code for new flutter project.
+Use many modern codes and packages that can help you build your own project really fast and effectively.
 
-## Getting Started
+## Project structure:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Packages:
+- [get_it : Dependency injection](https://pub.dev/packages/get_it)
+- [flutter_bloc: State management - BLoC (Business Logic Component) design pattern](https://pub.dev/packages/flutter_bloc)
+- [equatable: helps to implement value based equality without needing to explicitly override == and hashCode](https://pub.dev/packages/equatable)
+- [logger: Show Logs](https://pub.dev/packages/logger)
+- [retrofit: Networking - An dio client generator using source_gen](https://pub.dev/packages/retrofit)
+- [floor: Local Database - SQLite abstraction](https://pub.dev/packages/floor)
+- [flutter_secure_storage: Provides API to store data in secure storage](https://pub.dev/packages/flutter_secure_storage)
+- [flutter_easyloading: Loading view ](https://pub.dev/packages/flutter_easyloading)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # flutter_code_base
