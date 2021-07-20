@@ -4,7 +4,7 @@ A Base code for new flutter project.
 Use many modern codes and packages that can help you build your own project really fast and effectively.
 
 ## Project structure:
-
+![FlutterBase](https://user-images.githubusercontent.com/56285732/126272623-081f41fb-4793-492e-9248-3fbef1a2cd7a.png)
 
 ## Packages:
 - [get_it : Dependency injection](https://pub.dev/packages/get_it)
